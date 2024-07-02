@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hunhonn
-- 👀 I’m interested in learning dumb stuff on python
-- 🌱 I’m currently learning python,sql,html
-- 📫 How to reach me junonn2002@gmail.com
+- 👀 I’m interested in wasting time researching about public transit
+- 📫 reach me on hunhonn.github.io/portfolio-website/
 
 
 hehexd
